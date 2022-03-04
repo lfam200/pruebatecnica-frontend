@@ -1,1 +1,1 @@
-export const REACT_APP_API = "http://localhost:3001";
+export const REACT_APP_API = "https://pruebatecnica-backend.herokuapp.com";
