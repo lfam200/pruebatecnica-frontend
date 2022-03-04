@@ -30,6 +30,12 @@ npm i
 npm start
 ```
 
+Configurar URL API en src/utils/constants.js
+
+```sh
+export const REACT_APP_API = "http://localhost:3001";
+```
+
 Verifique el despliegue navegando a la dirección de su servidor en su navegador preferido.
 
 ```sh
