@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  width: 60%;
+  height: 100vh;
+  justify-content: center;
+  padding-top: 20px;
+  align-items: flex-start;
+}
+
+@media screen and (max-width: 500px) {
+  .container {
+    width: 100%;
+    padding-top: 0px;
+  }
+}

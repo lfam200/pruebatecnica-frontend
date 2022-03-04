@@ -1,0 +1,16 @@
+.badge {
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: hsla(235, 76%, 58%, 0.3);
+  border-radius: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.badge-label {
+  color: #4451e6;
+  font-weight: bold;
+  font-size: 8rem;
+}

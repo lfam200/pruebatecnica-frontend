@@ -1,0 +1,32 @@
+form {
+  width: 100%;
+}
+
+.form-group {
+  width: 100%;
+  text-align: left;
+  margin: 20px 0;
+}
+
+.form-group label {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+.form-group input {
+  width: 95%;
+  height: 30px;
+  border: 1px solid #5739ff;
+  border-radius: 9px;
+  padding: 2px 10px;
+}
+
+.form-messages {
+  width: 100%;
+  text-align: left;
+}
+.form-messages > .success {
+  color: #0d9600;
+}
+.form-messages > .error {
+  color: #ff0000;
+}
